@@ -5,7 +5,7 @@ import PyPDF2
 
 print("!!! 0")
 ##Convert PDF to Text
-pdf_file_path =  'The_Michael_Prophecies_Book_Two_1998_Volume_One_Initial_FInal.pdf'
+pdf_file_path =  'mybook.pdf'
 txt_file_path = pdf_file_path.replace('.pdf', '.txt')
 
 #with open(pdf_file_path, 'rb') as file:
